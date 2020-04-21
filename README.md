@@ -29,9 +29,9 @@ Patient and Medical Facility. It covers data gathering flow and manages data acc
 3. 3 nodes/PoET consensus/3 separate VMs: this is ideal and close to the reality
    a. set up 3 VMs
    b. run commands in each VM
-   b1.docker-compose -f docker-compose-3-vms-0-node-poet.yaml up
-   b2.docker-compose -f docker-compose-3-vms-1-node-poet.yaml up
-   b3.docker-compose -f docker-compose-3-vms-2-node-poet.yaml up
+   - docker-compose -f docker-compose-3-vms-0-node-poet.yaml up
+   - docker-compose -f docker-compose-3-vms-1-node-poet.yaml up
+   - docker-compose -f docker-compose-3-vms-2-node-poet.yaml up
 
 # Components
 
