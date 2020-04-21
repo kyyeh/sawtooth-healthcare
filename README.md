@@ -1,7 +1,4 @@
-# PITT CS 3551 
-# Is Blockchain a Better Solution for Managing Health Data?﻿
- 
-# Sawtooth-Healthcare
+# PITT CS 3551 Is Blockchain a Better Solution for Managing Health Data?﻿
 
 # About
 
